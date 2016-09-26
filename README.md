@@ -1,8 +1,12 @@
 # AdvancedWidget3
-Widget lanjutan praktek 3 (Data Binding)
 
-JIHAN FIE DHANESWARA - XII RPL 2 - 20 - 4362/1260.079 - SMK Telkom Malang
-
-[Screenshoot 1](https://github.com/jihanfied/AdvancedWidget3/blob/master/XIIRPL2%2320%23WidgetLanjutan%23Praktek3(1).png)
-[Screenshoot 2](https://github.com/jihanfied/AdvancedWidget3/blob/master/XIIRPL2%2320%23WidgetLanjutan%23Praktek3(2).png)
-[Aplikasi](https://github.com/jihanfied/AdvancedWidget3/blob/master/AdvancedWidget3.apk)
+* Judul Project : AdvancedWidget3
+* Screenshots :
+  * ![Screenshoot 1](https://github.com/jihanfied/AdvancedWidget3/blob/master/XIIRPL2%2320%23WidgetLanjutan%23Praktek3(1).png)
+  * ![Screenshoot 2](https://github.com/jihanfied/AdvancedWidget3/blob/master/XIIRPL2%2320%23WidgetLanjutan%23Praktek3(2).png)
+* Identitas :
+  * Nama     : Jihan Fie Dhaneswara
+  * Kelas    : XII RPL 2
+  * No. Urut : 20
+  * NIS      : 4362/1260.070
+  * Sekolah  : SMK Telkom Malang
